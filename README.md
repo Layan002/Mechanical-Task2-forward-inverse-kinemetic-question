@@ -5,6 +5,7 @@ You can find the detalied solution in the pdf file. I assumed values at forward 
 [Forward and inverse kinemetic.pdf](https://github.com/user-attachments/files/16242084/Forward.and.inverse.kinemetic.pdf)
 
 ## 3 degrees of freedom
+[Forward and inverse kinemetic_3DOF.pdf](https://github.com/user-attachments/files/16478273/Forward.and.inverse.kinemetic_3DOF.pdf)
 
 # Explination Video
 Here you can find the video was explained by me to help other trainers who stuck. (I published it on social media since so many trainers follow me).<br>
